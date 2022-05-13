@@ -39,12 +39,12 @@ Depth-limited Minimax algorithm examines just a certain number of moves before 
  
 - **Project 0a : Degree** <br/>
 The first project makes use of the breadth-first search technique to determine the "degrees of separation" between two actors, commonly known as the "Six Degrees of Kevin Bacon." <br/> 
-Link to full assignment description on Harvard website : [Degree ](https://cs50.harvard.edu/ai/2020/projects/0/degrees/ "Degree ") <br/>
+Link to full assignment on Harvard website : [Degree ](https://cs50.harvard.edu/ai/2020/projects/0/degrees/ "Degree ") <br/>
 Link to my project : [Project 0a : Degree](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200a%20:%20Degree) <br/>
 
 - **Project 0b : Tic-Tac-Toe** <br/>
 This project demonstrating a simple game of Tic-Tac-Toe with an AI opponent employs the minimax Alpha-Beta pruning algorithm to determine the best strategy. <br/>
-Link to full assignment description on Harvard website : [Tic-Tac-Toe](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe "Tic-Tac-Toe") <br/>
+Link to full assignment on Harvard website : [Tic-Tac-Toe](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe "Tic-Tac-Toe") <br/>
 Link to my project : [Project 0b : Tic-Tac-Toe](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200b%20:%20Tic-Tac-Toe "Project 0b : Tic-Tac-Toe") <br/>
 Video to my project : [Presentation of Project 0b : Tic-Tac-Toe](https://www.youtube.com/watch?v=ToK0P4cTvAc "Presentation of Project 0b : Tic-Tac-Toe") <br/>
 
@@ -53,7 +53,7 @@ Video to my project : [Presentation of Project 0b : Tic-Tac-Toe](https://www.you
 
 ## Week 1  :  Knowledge  <br/>
 This week works with knowledge representation and logical reasoning in a machine-readable manner, algorithmically addressing logically deductive issues. <br/>
-**The algorithms and theory covered:**
+**The algorithms and theory covered : **
 1. Knowledge-base agents
 2. Propositional Logic
 3.	Inference algorithms
@@ -66,22 +66,22 @@ This week works with knowledge representation and logical reasoning in a machine
 10. Inference by resolution
 11. First-Order Logic
 
-- **Project 1a: Knights** <br/>
+- **Project 1a: Knights**
 The goal of this project is to develop an AI that can use inference to rationally deduce answers to numerous classic "Knights and knaves" issues. <br/>
 Link to full assignment on Harvard website : [Knights](https://cs50.harvard.edu/ai/2020/projects/1/knights/ "Knights") <br/>
 Link to my project : [Project 1a : Knights](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%201%20:%20Knowledge/Project%201a%20:%20Knights "Project 1a : Knights")
 
-- **Project 1b: Minesweeper** <br/>
+- **Project 1b: Minesweeper**
 This project integrates artificial intelligence to the popular Windows game Minesweeper. It operates by making safe moves based on field information and, if no safe moves are available, producing a random one. <br/>
-Link to full assignment description on Harvard website : [Minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/) <br/>
+Link to full assignment on Harvard website : [Minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/) <br/>
 Link to my project : [Project 1b : Minesweeper](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%201%20:%20Knowledge/Project%201b%20:%20Minesweeper)
 
 
 [========]
-## Week 2 : Uncertainty <br/>
+## Week 2 : Uncertainty 
 Due to numerous constraints, the AI, like us, may not always be aware of all of the knowledge available within the problem at any given time. As a result, the issues revolve around building AI to operate with probabilistic reasoning.
 
-**The algorithm and theory covered:** <br/>
+**The algorithm and theory covered:**
 1. Unconditional probability
 2. Conditional probability
 3. Random Variable
@@ -94,16 +94,33 @@ Due to numerous constraints, the AI, like us, may not always be aware of all of 
 11. Sampling
 12. Markov Model
 
-**Project 2a: PageRank** <br/>
+- **Project 2a: PageRank**
 This project simulates Google's algorithm for ranking websites based on their relevance <br/>
-Link to full assignment description on Harvard Website : [PageRank](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/) <br/>
+Link to full assignment on Harvard Website : [PageRank](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/) <br/>
 Link to my project : [Project 2a : Pagerank](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%202%20:%20Uncertainty/Project%202a%20:%20Pagerank) <br/>
 
 
-**Project 2b: Heredity** <br/>
+- **Project 2b: Heredity**
 This project implements an AI algorithm that estimates a hidden attribute of having a damaged gene based on a visible impairment, in this instance, hearing loss. <br/>
-Link to full assignment description on Harvard Website : [Heredity](https://cs50.harvard.edu/ai/2020/projects/2/heredity/) <br/>
+Link to full assignment on Harvard Website : [Heredity](https://cs50.harvard.edu/ai/2020/projects/2/heredity/) <br/>
 Link to my project : [Project 2b : Heredity](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%202%20:%20Uncertainty/Project%202b%20:%20Heredity)
+
+## Week 3 : Optimization <br/>
+This week discusses the topic that can be handled by an AI determining the optimal solution among a set of options. <br>
+
+**The algorithm and theory covered:** <br>
+1. Local search
+2. Hill Climbing
+3. Simulated Annealing
+4. Linear Programming
+5. Constraint Satisfaction
+6. Node Consistency
+7. Arc Consistency
+8. Backtracking Search
+
+- **Project 3 : Crossword** <br>
+The goal of this project is to build an AI that generates crossword puzzles from a template and a word dictionary. <br>
+Link to full assignment descripment on Harvard website : [Crossword](https://cs50.harvard.edu/ai/2020/projects/3/crossword/) <br/>
 
 
 
