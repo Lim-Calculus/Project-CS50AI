@@ -43,7 +43,7 @@ Link to full assignment on Harvard website : [Degree ](https://cs50.harvard.edu/
 Link to my project : [Project 0a : Degree](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200a%20:%20Degree) <br/>
 
 - **Project 0b : Tic-Tac-Toe** <br/>
-A project demonstrating a simple game of Tic-Tac-Toe with an AI opponent employs the minimax Alpha-Beta pruning algorithm to determine the best strategy. <br/>
+This project demonstrating a simple game of Tic-Tac-Toe with an AI opponent employs the minimax Alpha-Beta pruning algorithm to determine the best strategy. <br/>
 Link to full assignment on Harvard website : [Tic-Tac-Toe](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe "Tic-Tac-Toe") <br/>
 Link to my project : [Project 0b : Tic-Tac-Toe](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200b%20:%20Tic-Tac-Toe "Project 0b : Tic-Tac-Toe") <br/>
 Video to my project : [Presentation of Project 0b : Tic-Tac-Toe](https://www.youtube.com/watch?v=ToK0P4cTvAc "Presentation of Project 0b : Tic-Tac-Toe") <br/>
@@ -94,11 +94,16 @@ Due to numerous constraints, the AI, like us, may not always be aware of all of 
 11. Sampling
 12. Markov Model
 
-**Project 2a: Knight**
+**Project 2a: PageRank**
+This project simulates Google's algorithm for ranking websites based on their relevance <br/>
+Link to full assignment on Harvard Website : [PageRank](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/) <br/>
+Link to my project : [Project 2a : Pagerank](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%202%20:%20Uncertainty/Project%202a%20:%20Pagerank) <br/>
 
 
-
-**Project 2b: Minesweeper**
+**Project 2b: Heredity**
+This project implements an AI algorithm that estimates a hidden attribute of having a damaged gene based on a visible impairment, in this instance, hearing loss. <br/>
+Link to full assignment on Harvard Website : [Heredity](https://cs50.harvard.edu/ai/2020/projects/2/heredity/) <br/>
+Link to my project : [Project 2b : Heredity](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%202%20:%20Uncertainty/Project%202b%20:%20Heredity)
 
 
 
