@@ -1,10 +1,11 @@
 # Project 1b: Minesweeper <br/>
-- The goal of this project is to develop an AI that can use inference to rationally deduce answers to numerous classic "Knights and knaves" issues. <br/>
-- Link to full assignment descriptions on Harvard website : [Knights](https://cs50.harvard.edu/ai/2020/projects/1/knights/ "Knights") <br/>
-- Link to my project : [Project 1a : Knights](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%201%20:%20Knowledge/Project%201a%20:%20Knights "Project 1a : Knights")
+- This project integrates artificial intelligence to the popular Windows game Minesweeper. It operates by making safe moves based on field information and, if no safe - moves are available, producing a random one. <br/>
+- Link to full assignment on Harvard website : [Minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/) <br/>
+- Link to my project : [Project 1b : Minesweeper](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%201%20:%20Knowledge/Project%201b%20:%20Minesweeper)
+
 
 - To execute the python script, type the following command in a bash terminal <br/>
 
 ```bash
-python3 degrees.py small
+python3 runner.py
 ```
