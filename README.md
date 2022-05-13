@@ -39,6 +39,7 @@ Depth-limited Minimax algorithm examines just a certain number of moves before 
 The first project makes use of the breadth-first search technique to determine the "degrees of separation" between two actors, commonly known as the "Six Degrees of Kevin Bacon."
 
 Link to full assignment on Harvard website : [Degree ](https://cs50.harvard.edu/ai/2020/projects/0/degrees/ "Degree ")
+
 Link to my project : [Project 0a : Degree](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200a%20:%20Degree)
 
 - **Project 0b : Tic-Tac-Toe**
