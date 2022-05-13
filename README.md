@@ -4,8 +4,8 @@
 Before visiting the projects, please carefully read about [CS50 Academic Honesty](httphttps://cs50.harvard.edu/ai/2020/honesty/:// "CS50 Academic Honesty").
 
 ## Course Information:
-Link to the course : [CS50AI on Harvard's website ](https://cs50.harvard.edu/ai/2020/ "CS50AI on Harvard's website ") or [CS50AI on Edx](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home "CS50AI on Edx")
-[CS50AI](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home "CS50AI") course is taught by David J. Malan and Brian Yu. 
+Link to the course : [CS50AI on Harvard's website ](https://cs50.harvard.edu/ai/2020/ "CS50AI on Harvard's website ") or [CS50AI on Edx](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home "CS50AI on Edx") <br/>
+[CS50AI](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home "CS50AI") course is taught by David J. Malan and Brian Yu. <br/>
 The nominally 7-week course comprised 12 practical tasks covering key methods in both conventional deterministic AI and more current approaches such as deep neural networks and natural language processing. This repository contains my solutions to the assignments for future reference. The course had a total of 19 tasks, including 7 quizzes and 12 programming assignments.
 
 [========]
@@ -36,17 +36,17 @@ Alpha-Beta Pruning, a method for optimising Minimax, avoids some of the unpleasa
 Depth-limited Minimax algorithm examines just a certain number of moves before stopping, never reaching a terminal state. However, because the end of the hypothetical games has not been reached, this does not provide an exact value for each action. Depth-limited Minimax addresses this issue by relying on an evaluation function that calculates the predicted utility of the game from a given state, or, in other words, assigns values to states.
 
 - **Project 0a : Degree**
-The first project makes use of the breadth-first search technique to determine the "degrees of separation" between two actors, commonly known as the "Six Degrees of Kevin Bacon."
+The first project makes use of the breadth-first search technique to determine the "degrees of separation" between two actors, commonly known as the "Six Degrees of Kevin Bacon." <br/>
 
-Link to full assignment on Harvard website : [Degree ](https://cs50.harvard.edu/ai/2020/projects/0/degrees/ "Degree ")
+Link to full assignment on Harvard website : [Degree ](https://cs50.harvard.edu/ai/2020/projects/0/degrees/ "Degree ") <br/>
 
-Link to my project : [Project 0a : Degree](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200a%20:%20Degree)
+Link to my project : [Project 0a : Degree](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200a%20:%20Degree) <br/>
 
 - **Project 0b : Tic-Tac-Toe**
-A project demonstrating a simple game of Tic-Tac-Toe with an AI opponent employs the minimax Alpha-Beta pruning algorithm to determine the best strategy.
-Link to full assignment on Harvard website : [Tic-Tac-Toe](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe "Tic-Tac-Toe")
-Link to my project : [Project 0b : Tic-Tac-Toe](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200b%20:%20Tic-Tac-Toe "Project 0b : Tic-Tac-Toe")
-Video to my project : [Presentation of Project 0b : Tic-Tac-Toe](https://www.youtube.com/watch?v=ToK0P4cTvAc "Presentation of Project 0b : Tic-Tac-Toe")
+A project demonstrating a simple game of Tic-Tac-Toe with an AI opponent employs the minimax Alpha-Beta pruning algorithm to determine the best strategy. <br/>
+Link to full assignment on Harvard website : [Tic-Tac-Toe](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe "Tic-Tac-Toe") <br/>
+Link to my project : [Project 0b : Tic-Tac-Toe](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200b%20:%20Tic-Tac-Toe "Project 0b : Tic-Tac-Toe") <br/>
+Video to my project : [Presentation of Project 0b : Tic-Tac-Toe](https://www.youtube.com/watch?v=ToK0P4cTvAc "Presentation of Project 0b : Tic-Tac-Toe") <br/>
 
 
 [========]
@@ -68,13 +68,13 @@ The algorithms and theory covered : **
 11. First-Order Logic
 
 - **Project 1a: Knights**
-The goal of this project is to develop an AI that can use inference to rationally deduce answers to numerous classic "Knights and knaves" issues.
-Link to full assignment on Harvard website : [Knights](https://cs50.harvard.edu/ai/2020/projects/1/knights/ "Knights")
+The goal of this project is to develop an AI that can use inference to rationally deduce answers to numerous classic "Knights and knaves" issues. <br/>
+Link to full assignment on Harvard website : [Knights](https://cs50.harvard.edu/ai/2020/projects/1/knights/ "Knights") <br/>
 Link to my project : [Project 1a : Knights](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%201%20:%20Knowledge/Project%201a%20:%20Knights "Project 1a : Knights")
 
 - **Project 1b: Minesweeper**
-This project integrates artificial intelligence to the popular Windows game Minesweeper. It operates by making safe moves based on field information and, if no safe moves are available, producing a random one.
-Link to full assignment on Harvard website : [Minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)
+This project integrates artificial intelligence to the popular Windows game Minesweeper. It operates by making safe moves based on field information and, if no safe moves are available, producing a random one. <br/>
+Link to full assignment on Harvard website : [Minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/) <br/>
 Link to my project : [Project 1b : Minesweeper](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%201%20:%20Knowledge/Project%201b%20:%20Minesweeper)
 
 
