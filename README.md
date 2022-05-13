@@ -79,7 +79,7 @@ Link to my project : [Project 1b : Minesweeper](https://github.com/Lim-Calculus/
 ## Week 2 : Uncertainty 
 Due to numerous constraints, the AI, like us, may not always be aware of all of the knowledge available within the problem at any given time. As a result, the issues revolve around building AI to operate with probabilistic reasoning.
 
-**The algorithm and theory covered : **
+**The algorithm and theory covered:**
 1. Unconditional probability
 2. Conditional probability
 3. Random Variable
