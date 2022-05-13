@@ -36,10 +36,8 @@ Alpha-Beta Pruning, a method for optimising Minimax, avoids some of the unpleasa
 Depth-limited Minimax algorithm examines just a certain number of moves before stopping, never reaching a terminal state. However, because the end of the hypothetical games has not been reached, this does not provide an exact value for each action. Depth-limited Minimax addresses this issue by relying on an evaluation function that calculates the predicted utility of the game from a given state, or, in other words, assigns values to states.
 
 - **Project 0a : Degree**
-The first project makes use of the breadth-first search technique to determine the "degrees of separation" between two actors, commonly known as the "Six Degrees of Kevin Bacon." <br/>
-
+The first project makes use of the breadth-first search technique to determine the "degrees of separation" between two actors, commonly known as the "Six Degrees of Kevin Bacon." <br/> 
 Link to full assignment on Harvard website : [Degree ](https://cs50.harvard.edu/ai/2020/projects/0/degrees/ "Degree ") <br/>
-
 Link to my project : [Project 0a : Degree](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200a%20:%20Degree) <br/>
 
 - **Project 0b : Tic-Tac-Toe**
