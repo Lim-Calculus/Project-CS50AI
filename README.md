@@ -11,36 +11,36 @@ The nominally 7-week course comprised 12 practical tasks covering key methods in
 [========]
 
 ## Week 0  : Search 
-The first week discussed standard methods for finding preferrably optimum or near-optimal ways to complete a job that can be reduced to a problem of "finding a path between two places with the least amount of cost incurred."
+The first week discussed standard methods for finding preferrably optimum or near-optimal ways to complete a job that can be reduced to a problem of "finding a path between two places with the least amount of cost incurred." <br/>
 
-**The algorithm and theory covered :**
-**1. Depth-First Search. **
-Depth-First Search is a search algorithm that exhausts each direction before trying another.
+**The algorithm and theory covered :** <br/>
+**1. Depth-First Search. ** <br/> 
+Depth-First Search is a search algorithm that exhausts each direction before trying another. <br/>
 
-**2. Breadth-First Search.**
+**2. Breadth-First Search.** <br/>
 Breadth-First Search is a search algorithm that will take one step in each possible direction before taking the second step in each direction at the same time.
 
-**3. Greedy best-first search. **
-Greedy best-first search is a search algorithm that extends the node closest to the target, as defined by a heuristic function h(n). The function, as the name implies, calculates how close the next node is to the goal, although it is vulnerable to errors. The greedy best-first algorithm's efficiency is determined by the quality of the heuristic function.
+**3. Greedy best-first search. ** <br/>
+Greedy best-first search is a search algorithm that extends the node closest to the target, as defined by a heuristic function h(n). The function, as the name implies, calculates how close the next node is to the goal, although it is vulnerable to errors. The greedy best-first algorithm's efficiency is determined by the quality of the heuristic function. <br/>
 
-**4. A * search**
-A variant of the greedy best-first method, takes into account not only h(n), the estimated cost from the current position to the goal, but also g(n), the cost incurred up to the current location. By integrating these numbers, the algorithm can more accurately calculate the value of the solution and optimise its quick decisions. The algorithm keeps track of (cost of path until now + estimated cost to goal), and if it exceeds the estimated cost of some previous option, it will abandon the current path and return to the previous option, preventing itself from taking a long, inefficient path that h(n) incorrectly marked as best.
+**4. A * search** <br/>
+A variant of the greedy best-first method, takes into account not only h(n), the estimated cost from the current position to the goal, but also g(n), the cost incurred up to the current location. By integrating these numbers, the algorithm can more accurately calculate the value of the solution and optimise its quick decisions. The algorithm keeps track of (cost of path until now + estimated cost to goal), and if it exceeds the estimated cost of some previous option, it will abandon the current path and return to the previous option, preventing itself from taking a long, inefficient path that h(n) incorrectly marked as best. <br/>
 
-**5. MiniMax**
+**5. MiniMax** <br/>
 Minimax is an adversarial search method that depicts victory circumstances as (-1) for one side and (+1) for the other. These conditions will drive subsequent actions, with the minimising side attempting to get the lowest score and the maximizer attempting to achieve the maximum score.
 
-**6. Alpha-Beta Pruning**
-Alpha-Beta Pruning, a method for optimising Minimax, avoids some of the unpleasant recursive calculations. Following the establishment of the value of one action, if there is preliminary evidence that the following action can bring the opponent to a higher score than the previously established action, there is no need to investigate this action further because it will be decidedly less favourable than the previously established one.
+**6. Alpha-Beta Pruning** <br/>
+Alpha-Beta Pruning, a method for optimising Minimax, avoids some of the unpleasant recursive calculations. Following the establishment of the value of one action, if there is preliminary evidence that the following action can bring the opponent to a higher score than the previously established action, there is no need to investigate this action further because it will be decidedly less favourable than the previously established one. <br/>
 
-**7. Depth-Limited Minimax**
-Depth-limited Minimax algorithm examines just a certain number of moves before stopping, never reaching a terminal state. However, because the end of the hypothetical games has not been reached, this does not provide an exact value for each action. Depth-limited Minimax addresses this issue by relying on an evaluation function that calculates the predicted utility of the game from a given state, or, in other words, assigns values to states.
-
-- **Project 0a : Degree**
+**7. Depth-Limited Minimax** <br/>
+Depth-limited Minimax algorithm examines just a certain number of moves before stopping, never reaching a terminal state. However, because the end of the hypothetical games has not been reached, this does not provide an exact value for each action. Depth-limited Minimax addresses this issue by relying on an evaluation function that calculates the predicted utility of the game from a given state, or, in other words, assigns values to states. <br/>
+ 
+- **Project 0a : Degree** <br/>
 The first project makes use of the breadth-first search technique to determine the "degrees of separation" between two actors, commonly known as the "Six Degrees of Kevin Bacon." <br/> 
 Link to full assignment on Harvard website : [Degree ](https://cs50.harvard.edu/ai/2020/projects/0/degrees/ "Degree ") <br/>
 Link to my project : [Project 0a : Degree](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200a%20:%20Degree) <br/>
 
-- **Project 0b : Tic-Tac-Toe**
+- **Project 0b : Tic-Tac-Toe** <br/>
 A project demonstrating a simple game of Tic-Tac-Toe with an AI opponent employs the minimax Alpha-Beta pruning algorithm to determine the best strategy. <br/>
 Link to full assignment on Harvard website : [Tic-Tac-Toe](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe "Tic-Tac-Toe") <br/>
 Link to my project : [Project 0b : Tic-Tac-Toe](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%200%20:%20Search/Project%200b%20:%20Tic-Tac-Toe "Project 0b : Tic-Tac-Toe") <br/>
@@ -49,10 +49,9 @@ Video to my project : [Presentation of Project 0b : Tic-Tac-Toe](https://www.you
 
 [========]
 
-## Week 1  :  Knowledge 
-This week works with knowledge representation and logical reasoning in a machine-readable manner, algorithmically addressing logically deductive issues.
-**
-The algorithms and theory covered : **
+## Week 1  :  Knowledge  <br/>
+This week works with knowledge representation and logical reasoning in a machine-readable manner, algorithmically addressing logically deductive issues. <br/>
+**The algorithms and theory covered : **
 1. Knowledge-base agents
 2. Propositional Logic
 3.	Inference algorithms
