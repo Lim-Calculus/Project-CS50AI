@@ -105,6 +105,8 @@ This project implements an AI algorithm that estimates a hidden attribute of hav
 Link to full assignment on Harvard Website : [Heredity](https://cs50.harvard.edu/ai/2020/projects/2/heredity/) <br/>
 Link to my project : [Project 2b : Heredity](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%202%20:%20Uncertainty/Project%202b%20:%20Heredity)
 
+[========]
+
 ## Week 3 : Optimization <br/>
 This week discusses the topic that can be handled by an AI determining the optimal solution among a set of options. <br>
 
@@ -122,6 +124,70 @@ This week discusses the topic that can be handled by an AI determining the optim
 The goal of this project is to build an AI that generates crossword puzzles from a template and a word dictionary. <br>
 Link to full assignment descripment on Harvard website : [Crossword](https://cs50.harvard.edu/ai/2020/projects/3/crossword/) <br/>
 Link to my project : [Project 3: Crossword](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%203%20:%20Optimization/Project%203%20:%20Crossword)
+
+[========]
+
+## Week 4 : Learning <br>
+This week introduces the chapters on machine learning, which is the development of AI that can reach conclusions without direct human intervention. <br/>
+
+**The algorithm and theory covered:** <br>
+1. Machine Learning
+2. Supervised Learning
+3. Nearest - Neighbor Classification 
+4. Perceptron Learning
+5. Support Vector Machines
+6. Regression
+7. Loss Functions
+8. Overfitting
+9. Regularization
+10. Reinforcement Learning
+11. Markov Descision Processes
+12. Q - learning
+13. Unsupervised Learning
+14. k-means Clustering
+15. Scikit-learn framework
+
+- **Project 4a : Shopping** <br/>
+This project implements an AI to predict whether or not internet shoppers will complete a purchase. <br/>
+Link to full assignment on Harvard website : [Shopping](https://cs50.harvard.edu/ai/2020/projects/4/shopping/) <br/>
+Link to my project : [Project 4a : Shopping](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%204%20:%20Learning/Project%204a%20:%20Shopping) <br/>
+
+- **Project 4b : Nim** <br/>
+This project implements an AI that learns to play the NIM game, in which two players remove rings from several towers, with the last person to take a ring losing. <br/>
+Link to full assignment on Harvard website : [Nim](https://cs50.harvard.edu/ai/2020/projects/4/nim/) <br/>
+Link to my project : [Project 4b : Nim](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%204%20:%20Learning/Project%204b%20:%20Nim) <br/>
+
+[========]
+
+## Week 5: Neural Networks <br/>
+This week discusses the now immensely popular notion of neural networks, which was developed in the 1970s but is only being used now because of decreasing processing costs.<br/>
+**The algorithm and theory covered:** <br/>
+1. Neural Networks
+2. Activation Functions
+3. Neural Network Structure
+4. Gradient Descent
+5. Multilayer Neural Networks
+6. Backpropagation
+7. Overfitting
+8. TensorFlow
+9. Computer Vision
+10. Image Convolution
+11. Convolutional Neural Networks
+12. Recurrent Neural Networks
+
+- **Project 5: Traffic** <br/>
+This project is to develop a rudimentary computer vision neural network that recognizes traffic signs in preparation for automated driving. <br/> 
+Link to full assignment descriptions on Harvard website : [Traffic](https://cs50.harvard.edu/ai/2020/projects/5/traffic/) <br/>
+Link to my project : [Project 5 : Traffic](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%205%20:%20Neural%20Networks/Project%205%20:%20Traffic) <br/> 
+
+[========]
+## Week 6 : Natural Language Processing
+
+
+
+
+
+
 
 
 
