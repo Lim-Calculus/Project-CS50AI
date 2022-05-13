@@ -14,13 +14,13 @@ The nominally 7-week course comprised 12 practical tasks covering key methods in
 The first week discussed standard methods for finding preferrably optimum or near-optimal ways to complete a job that can be reduced to a problem of "finding a path between two places with the least amount of cost incurred." <br/>
 
 **The algorithm and theory covered** <br/>
-**1. Depth-First Search. ** <br/> 
+**1. Depth-First Search.** <br/> 
 Depth-First Search is a search algorithm that exhausts each direction before trying another. <br/>
 
 **2. Breadth-First Search.** <br/>
 Breadth-First Search is a search algorithm that will take one step in each possible direction before taking the second step in each direction at the same time.
 
-**3. Greedy best-first search. ** <br/>
+**3. Greedy best-first search.** <br/>
 Greedy best-first search is a search algorithm that extends the node closest to the target, as defined by a heuristic function h(n). The function, as the name implies, calculates how close the next node is to the goal, although it is vulnerable to errors. The greedy best-first algorithm's efficiency is determined by the quality of the heuristic function. <br/>
 
 **4. A * search** <br/>
