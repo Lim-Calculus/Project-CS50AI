@@ -53,7 +53,7 @@ Video to my project : [Presentation of Project 0b : Tic-Tac-Toe](https://www.you
 
 ## Week 1  :  Knowledge  <br/>
 This week works with knowledge representation and logical reasoning in a machine-readable manner, algorithmically addressing logically deductive issues. <br/>
-**The algorithms and theory covered : **
+**The algorithms and theory covered:**
 1. Knowledge-base agents
 2. Propositional Logic
 3.	Inference algorithms
