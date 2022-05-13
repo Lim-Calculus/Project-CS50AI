@@ -1,8 +1,8 @@
 <img src ="https://prod-discovery.edx-cdn.org/media/course/image/3a31db71-de8f-45f1-ae65-11981ed9d680-b801bb328333.small.png" width="100"> <br/>
 # Project Harvard CS50AI <br/>
 ![Harvard CS50AI](https://certificates.cs50.io/d39904b5-94a6-434b-88e5-813da08a54e5.png?size=letter) <br/>
-####  My projects & solutions for CS50's Introduction to Artificial Intelligence with Python (CS50AI) course <br/>
-My CS50AI Project certificate : [CS50AI certificate](https://certificates.cs50.io/d39904b5-94a6-434b-88e5-813da08a54e5.pdf?size=letter) [Verified Certificate](https://courses.edx.org/certificates/b96f09744e39472196a39e47faf09f58) <br/>
+###  My projects & solutions for CS50's Introduction to Artificial Intelligence with Python (CS50AI) course <br/>
+### My CS50AI Project certificate : [CS50AI certificate](https://certificates.cs50.io/d39904b5-94a6-434b-88e5-813da08a54e5.pdf?size=letter) [Verified Certificate](https://courses.edx.org/certificates/b96f09744e39472196a39e47faf09f58) <br/>
 ### Before visiting the projects, please carefully read about [CS50 Academic Honesty](http://cs50.harvard.edu/ai/2020/honesty/:// "CS50 Academic Honesty"). <br/>
 
 ## Course Information:
