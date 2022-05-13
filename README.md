@@ -13,7 +13,7 @@ The nominally 7-week course comprised 12 practical tasks covering key methods in
 ## Week 0  : Search 
 The first week discussed standard methods for finding preferrably optimum or near-optimal ways to complete a job that can be reduced to a problem of "finding a path between two places with the least amount of cost incurred." <br/>
 
-**The algorithm and theory covered** <br/>
+**The algorithm and theory covered:** <br/>
 **1. Depth-First Search.** <br/> 
 Depth-First Search is a search algorithm that exhausts each direction before trying another. <br/>
 
