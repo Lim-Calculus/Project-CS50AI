@@ -8,7 +8,7 @@
 ```bash
 python3 traffic.py gtsrb
 ``` 
-[----]
+[========]
 
 ## Observation
 The model structure of my Neural Network will be Total of 3 Convolution Neural Network Model (CNN) Block
