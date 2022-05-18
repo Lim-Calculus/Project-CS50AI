@@ -1,4 +1,5 @@
 ## Project 5: Traffic <br/>
+### Before visiting the projects, please carefully read about [CS50 Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/#:~:text=Unless%20otherwise%20specified%2C%20collaboration%20on,doing%20your%20work%20for%20you.). <br/>
 - This project is to develop a rudimentary computer vision neural network that recognizes traffic signs in preparation for automated driving. <br/>
 - Download the [data set](https://cdn.cs50.net/ai/2020/spring/projects/5/gtsrb.zip) (gtsrb) for this project and unzip it. Move the resulting gtsrb directory inside of your traffic directory. <br/> 
 - Link to full assignment descriptions on Harvard website : [Traffic](https://cs50.harvard.edu/ai/2020/projects/5/traffic/) <br/>
