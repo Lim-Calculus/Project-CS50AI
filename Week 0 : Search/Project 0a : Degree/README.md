@@ -6,5 +6,5 @@
 - To execute the python script, type the following command in a bash terminal <br/>
 
 ```bash
-python3 degrees.py small
+python degrees.py small
 ```
