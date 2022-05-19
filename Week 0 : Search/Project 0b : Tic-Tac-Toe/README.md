@@ -7,6 +7,6 @@
 - To execute the python script, type the following command in a bash terminal <br/>
 
 ```bash
-python3 runner.py 
+python runner.py 
 ```
 
