@@ -6,17 +6,17 @@
 - To execute the python script, type the following command in a bash terminal
 
 ```bash
-python3 pagerank.py corpus0
+python pagerank.py corpus0
 ```
 <br/> or <br/>
 
 ```bash
-python3 pagerank.py corpus1
+python pagerank.py corpus1
 ```
 <br/> or <br/>
 
 ```bash
-python3 pagerank.py corpus2
+python pagerank.py corpus2
 ```
 <br/> or <br/>
 
