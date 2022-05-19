@@ -1,4 +1,5 @@
 ## Project 2b : Heredity <br/>
+### Before visiting the projects, please carefully read about [CS50 Academic Honesty]
 - This project implements an AI algorithm that estimates a hidden attribute of having a damaged gene based on a visible impairment, in this instance, hearing loss. <br/>
 - Link to full assignment on Harvard Website : [Heredity](https://cs50.harvard.edu/ai/2020/projects/2/heredity/) <br/>
 - Link to my project : [Project 2b : Heredity](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%202%20:%20Uncertainty/Project%202b%20:%20Heredity)
