@@ -1,4 +1,5 @@
 ## Project 2a : Pagerank
+### Before visiting the projects, please carefully read about [CS50 Academic Honesty]
 - This project simulates Google's algorithm for ranking websites based on their relevance <br/>
 - Link to full assignment on Harvard Website : [PageRank](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/) <br/>
 - Link to my project : [Project 2a : Pagerank](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%202%20:%20Uncertainty/Project%202a%20:%20Pagerank) <br/>
