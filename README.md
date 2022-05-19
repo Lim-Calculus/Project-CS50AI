@@ -178,7 +178,8 @@ This week discusses the now immensely popular notion of neural networks, which w
 - **Project 5: Traffic** <br/>
 This project is to develop a rudimentary computer vision neural network that recognizes traffic signs in preparation for automated driving. <br/> 
 Link to full assignment descriptions on Harvard website : [Traffic](https://cs50.harvard.edu/ai/2020/projects/5/traffic/) <br/>
-Link to my project : [Project 5 : Traffic](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%205%20:%20Neural%20Networks/Project%205%20:%20Traffic) <br/> 
+Link to my project : [Project 5 : Traffic](https://github.com/Lim-Calculus/Project-CS50AI/tree/main/Week%205%20:%20Neural%20Networks/Project%205%20:%20Traffic) <br/>
+Link to my project presentation : [CS50AI Week 5 Traffic Video Presentation](https://www.youtube.com/watch?v=PSAPfkUEr3k)
 
 [========]
 ## Week 6 : Natural Language Processing <br/>
