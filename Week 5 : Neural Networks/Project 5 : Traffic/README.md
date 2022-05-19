@@ -7,7 +7,7 @@
 - - To execute the python script, type the following command in a bash terminal <br/>
 
 ```bash
-python3 traffic.py gtsrb
+python traffic.py gtsrb model.h5
 ``` 
 
 
