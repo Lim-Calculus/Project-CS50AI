@@ -1,4 +1,5 @@
 ## Project 4a : Shopping <br/>
+### Before visiting the projects, please carefully read about [CS50 Academic Honesty] <br/>
 - This project implements an AI to predict whether or not internet shoppers will complete a purchase. <br/>
 - This project utilizes machine learning to determine if online shoppers will complete their purchase or leave it
 - Link to full assignment on Harvard website : [Shopping](https://cs50.harvard.edu/ai/2020/projects/4/shopping/) <br/>
