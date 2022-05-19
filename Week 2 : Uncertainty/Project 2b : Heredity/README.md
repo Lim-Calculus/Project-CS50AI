@@ -6,17 +6,17 @@
 - To execute the python script, type the following command in a bash terminal <br/>
 
 ```bash
-python3 heredity.py data/family0.csv 
+python heredity.py data/family0.csv 
 ```
 <br/> or <br/> 
 
 ```bash
-python3 heredity.py data/family1.csv 
+python heredity.py data/family1.csv 
 ```
 <br/> or <br/> 
 
 ```bash
-python3 heredity.py data/family2.csv 
+python heredity.py data/family2.csv 
 ```
 
 Currently there is family0.csv, family1.csv, and family2.csv in the data folder
